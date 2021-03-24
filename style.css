@@ -1,0 +1,32 @@
+main {
+    background: lightsteelblue;
+    display: grid;
+    height: 1000px;
+    margin: auto;
+    grid-template-columns: 150px 1fr 100px;
+    max-width: 900px;
+    justify-content: center;
+
+
+}
+
+.sidebar {
+    background:lightsalmon
+}
+
+.content {
+    background: greenyellow;
+}
+
+header {
+    background: lightsteelblue;
+    
+}
+
+.features {
+    background:powderblue;
+}
+
+.locations {
+    background: peachpuff;
+}
